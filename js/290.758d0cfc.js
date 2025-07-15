@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktest"]=self["webpackChunktest"]||[]).push([[290],{290:function(t,n,u){u.r(n),u.d(n,{default:function(){return l}});var e=u(641);const s={class:"about"};function a(t,n,u,a,r,c){return(0,e.uX)(),(0,e.CE)("div",s,n[0]||(n[0]=[(0,e.Lk)("h1",null,"关于我",-1),(0,e.Lk)("p",null,"这是一个关于我的个人介绍页面",-1)]))}var r={name:"About"},c=u(262);const f=(0,c.A)(r,[["render",a],["__scopeId","data-v-2d9fff50"]]);var l=f}}]);
+//# sourceMappingURL=290.758d0cfc.js.map
